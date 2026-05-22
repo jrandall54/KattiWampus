@@ -18,7 +18,7 @@ jobs:
           distribution: temurin
       - name: Compile Java
         run: |
-          if [ -f matrix.java ]; then javac matrix.java; fi
+          if [ -f KattiWampus.java ]; then javac KattiWampus.java; fi
       - name: Run tests script
         run: |
           chmod +x ./scripts/run_tests.sh || true

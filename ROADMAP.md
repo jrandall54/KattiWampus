@@ -243,7 +243,7 @@ What success looks like:
 The matrix folder will eventually hold the challenge assets, organized around the current problem idea.
 
 Planned files:
-- matrix.java: current blank Java scaffold
+- KattiWampus.java: current blank Java scaffold
 - ROADMAP.md: this learning and implementation roadmap
 - problem.md: the problem statement
 - tests/input/*.txt: input test cases

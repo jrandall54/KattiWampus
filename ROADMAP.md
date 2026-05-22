@@ -240,7 +240,7 @@ What success looks like:
 
 ## Workspace File Plan
 
-The matrix folder will eventually hold the challenge assets, organized around the current problem idea.
+The KattiWampus folder will eventually hold the challenge assets, organized around the current problem idea.
 
 Planned files:
 - KattiWampus.java: current blank Java scaffold

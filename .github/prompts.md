@@ -76,7 +76,7 @@ Explain:
 
 
 
-Doing things with permission (Slap #4)
+Doing things without permission (Slap #4)
 
 Do not implement or modify anything yet.
 
